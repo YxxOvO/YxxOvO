@@ -95,8 +95,18 @@ Optimizes **IRS-aided THz MIMO** resource allocation via heterogeneous graph neu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YxxOvO&show_icons=true&theme=default&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YxxOvO&layout=compact&theme=default&hide_border=true" />
+
+<table>
+<tr>
+  <td align="center" style="padding: 8px 18px;"><b>⭐</b><br/>Stars</td>
+  <td align="center" style="padding: 8px 18px;"><b>📦</b><br/>Repos</td>
+  <td align="center" style="padding: 8px 18px;"><b>🔧</b><br/>Commits</td>
+  <td align="center" style="padding: 8px 18px;"><b>🐍</b><br/>Top Lang</td>
+</tr>
+</table>
+
+<sub>Python &ensp;·&ensp; C++ &ensp;·&ensp; MATLAB &ensp;·&ensp; Jupyter</sub>
+
 </div>
 
 ---
